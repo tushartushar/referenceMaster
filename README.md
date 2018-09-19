@@ -1,7 +1,9 @@
-# referenceMaster
+# ReferenceMaster
+Carrying out software engineering research? Here is my bibtex file containing papers/resources that I cite in my recent papers targeting mainly to the code smells and maintainability domain.
+
 This bib file contains all the references I cite.
 
-I follow the following rules
+I (try to) follow the following rules
 - Tag of each entry in \<First name of first author\>\<year in 4 letters\>[a/b/...]
 - No publisher address
 - No URL of the document
