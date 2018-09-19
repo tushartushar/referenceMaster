@@ -1,5 +1,5 @@
 # ReferenceMaster
-Carrying out software engineering research? Here is my bibtex file containing papers/resources that I cite in my recent papers targeting mainly to the code smells and maintainability domain.
+Here is my bibtex file containing papers/resources that I cite in my recent papers targeting mainly to the code smells and maintainability domain.
 
 This bib file contains all the references I cite.
 
